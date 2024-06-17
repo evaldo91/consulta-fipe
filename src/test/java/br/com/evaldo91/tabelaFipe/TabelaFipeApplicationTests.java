@@ -1,10 +1,10 @@
-package br.com.evaldo91.consultafipe;
+package br.com.evaldo91.tabelaFipe;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConsultafipeApplicationTests {
+class TabelaFipeApplicationTests {
 
 	@Test
 	void contextLoads() {
